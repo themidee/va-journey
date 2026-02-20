@@ -1,5 +1,5 @@
 # va-journey
-My journey as a Virtual Assistant
+My journey as a Virtual Assistant.
 This repository documents my growth as a Virtual Assistant.
 ## Skills I'm Developing
 - Communication
